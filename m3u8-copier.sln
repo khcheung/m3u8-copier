@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3U8", "M3U8\M3U8.csproj", "{839C741A-8473-4605-9B6A-0C09B5394DA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3U8Console", "M3U8Console\M3U8Console.csproj", "{0AC81F29-8460-4BD2-BD66-BA2B2F2BBC8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839C741A-8473-4605-9B6A-0C09B5394DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839C741A-8473-4605-9B6A-0C09B5394DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839C741A-8473-4605-9B6A-0C09B5394DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839C741A-8473-4605-9B6A-0C09B5394DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC81F29-8460-4BD2-BD66-BA2B2F2BBC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC81F29-8460-4BD2-BD66-BA2B2F2BBC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC81F29-8460-4BD2-BD66-BA2B2F2BBC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC81F29-8460-4BD2-BD66-BA2B2F2BBC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4D65034-BF91-4F9A-93CE-F5B53CACCD4D}
+	EndGlobalSection
+EndGlobal
